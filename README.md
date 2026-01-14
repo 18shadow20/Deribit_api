@@ -27,8 +27,8 @@
 
 1. Клонируем репозиторий:
 ```bash
-git clone <url-репозитория>
-cd <папка проекта>
+git clone https://github.com/18shadow20/Deribit_api.git
+cd Deribit_api
 ```
 2 Создаём виртуальное окружение и устанавливаем зависимости:
 ```bash
